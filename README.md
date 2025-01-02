@@ -4,4 +4,3 @@ Welcome to the Little Lemon Restaurant website repository. This project was crea
 
 ![Website Preview](./src/assets/preview.png)
 
-
